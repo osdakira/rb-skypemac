@@ -1,3 +1,12 @@
+README for rb-skypemac on 1.9.x
+======================
+
+- ruby 1.9.x cannot use `:' with if/useless
+
+
+↓Original README
+=================
+
 README for rb-skypemac
 ======================
 
